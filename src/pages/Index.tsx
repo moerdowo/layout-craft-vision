@@ -32,7 +32,7 @@ const Index = () => {
           <div className="content-section">
             <div className="relative overflow-hidden rounded-3xl bg-gray-100">
               <img
-                src="/lovable-uploads/88bcba61-1662-42e8-b48c-afe35805a024.png"
+                src="/placeholder.svg"
                 alt="Course Preview"
                 className="hero-image w-full"
               />
